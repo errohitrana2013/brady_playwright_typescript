@@ -1,0 +1,22 @@
+[
+  {
+    "testcaseNumber": 1,
+    "Trading Modality": "Continuous",
+    "Delivery Date": "2026-02-12",
+    "Product": "30",
+    "View": "table",
+    "Market Area": "GB",
+    "Status": "PASS",
+    "Comment": "Filters applied successfully"
+  },
+  {
+    "testcaseNumber": 2,
+    "Trading Modality": "Continuous",
+    "Delivery Date": "2026-02-12",
+    "Product": "30",
+    "View": "table",
+    "Market Area": "FR",
+    "Status": "PASS",
+    "Comment": "Filters applied successfully"
+  }
+]
